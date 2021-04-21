@@ -10,7 +10,7 @@ require (
 	github.com/docker/spdystream v0.0.0-20181023171402-6480d4af844c // indirect
 	github.com/evanphx/json-patch/v5 v5.2.0
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
-	github.com/go-openapi/spec v0.19.3
+	github.com/go-openapi/spec v0.20.3
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.4.3
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
